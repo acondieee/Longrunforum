@@ -8,8 +8,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Define your forum credentials and post content
-username = "andrea.m.condie@gmail.com"
-password = "Hillhouse97*"
+username = "**insert username**"
+password = "**insert password**"
 post_title = "Weekly Long Run Planning"
 post_content = """
 Post your weekend long run plans in the comments, with the usual info about where/when you'll meet, distance to be run, and anticipated pace/workouts!
